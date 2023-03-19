@@ -3,7 +3,7 @@
     "description": "Album of MIW 2022",
     "dislikes": 0,
     "id": 1,
-    "imgSrc": "mockMiwCardImg",
+    "imgSrc": "https://raw.githubusercontent.com/sergJess/data-mock/main/mock-cards/miw-scoring.jpg",
     "likes": 996,
     "priceDollar": 55,
     "title": "Motionless in White - Scoring the End of the World"
@@ -12,7 +12,7 @@
     "description": "Album of DT 2013",
     "dislikes": 1,
     "id": 2,
-    "imgSrc": "mockDtCardImg",
+    "imgSrc": "https://raw.githubusercontent.com/sergJess/data-mock/main/mock-cards/dt-construct.jpg",
     "likes": 556,
     "priceDollar": 43,
     "title": "Dark Tranquillity - Construct"
