@@ -16,5 +16,14 @@
     "likes": 556,
     "priceDollar": 43,
     "title": "Dark Tranquillity - Construct"
+  },
+   {
+    "description": "Album of Caliban 2016",
+    "dislikes": 6,
+    "id": 3,
+    "imgSrc": "https://raw.githubusercontent.com/sergJess/data-mock/main/mock-cards/caliban-gravity.jpg",
+    "likes": 656,
+    "priceDollar": 45,
+    "title": "Caliban - Gravity"
   }
 ]
